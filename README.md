@@ -1,7 +1,7 @@
 # git-basic-commands
 
 ### Interactive Git Pages for below document 
- Git Baiscs [https://dilipduraiswamy.github.io/git-basics/]
+ Git Baiscs [https://Ashwirai.github.io/git-basics/]
 - git version ( git --version ) 
 - git help ( git --help )
 
